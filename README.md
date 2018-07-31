@@ -28,7 +28,7 @@ it seems "dep" is an official dependency management tool for golang.
 
 ### installation
 ```
-***> 
+***> go get -u github.com/golang/dep/cmd/dep
 ```
 
 
