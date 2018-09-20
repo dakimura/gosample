@@ -5,8 +5,13 @@ this repository is dakimura's example project to learn golang using ...
 Visual Studio Code 1.19.1
 Windows 10
 
-## debugger
-it seems "delve" is a defacto-standard debugger...
+## debug
+"delve" seems to be a defacto-standard debugger...
+
+## continuous integration
+setupped basic CI setting using Circle CI
+
+https://simple-it-life.com/2016/03/07/circleci-beginner/
 
 ### installation
 To install, `go get -u github.com/derekparker/delve/cmd/dlv` failed due to the following error:
